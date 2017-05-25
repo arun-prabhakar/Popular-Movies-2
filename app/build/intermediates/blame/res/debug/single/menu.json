@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\AndroidApps\\popular movies 2\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_movie_detail.xml",
+        "source": "D:\\AndroidApps\\popular movies 2\\app\\src\\main\\res\\menu\\menu_movie_detail.xml"
+    }
+]
