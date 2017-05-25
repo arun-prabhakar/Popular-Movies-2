@@ -1,0 +1,16 @@
+#Mon Apr 17 18:04:29 IST 2017
+renamed.4=classes4.dex
+renamed.3=classes3.dex
+renamed.2=classes.dex
+renamed.1=classes5.dex
+base.4=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\picasso-2.5.2_82cdb76ce5099ba2b73137408c9c2b1ccce6c31c
+renamed.0=classes2.dex
+base.3=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_3333b31887dc8245eca4f7115f6e85542eafcb45
+base.2=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bad03b289e548454f6eab8d237e4b54f0a30e0cb
+base.1=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_8074e1dd53fb86b378659d08b95516d4b1704397
+base.0=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e1ca45301345ab3648627e78bb1d03647e3b21b4
+file.4=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\picasso-2.5.2_82cdb76ce5099ba2b73137408c9c2b1ccce6c31c\\classes.dex
+file.3=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_3333b31887dc8245eca4f7115f6e85542eafcb45\\classes.dex
+file.2=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bad03b289e548454f6eab8d237e4b54f0a30e0cb\\classes.dex
+file.1=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_8074e1dd53fb86b378659d08b95516d4b1704397\\classes.dex
+file.0=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e1ca45301345ab3648627e78bb1d03647e3b21b4\\classes.dex

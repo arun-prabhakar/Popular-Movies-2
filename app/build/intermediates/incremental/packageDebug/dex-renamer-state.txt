@@ -1,0 +1,7 @@
+#Fri May 26 01:40:14 IST 2017
+base.0=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aac6d5bf7a21c35e468a9d9ca3fcfb6ebdafac2b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ab493a592e38e790f5be43e0842a6e2e9752c38\\classes.dex
+base.1=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ab493a592e38e790f5be43e0842a6e2e9752c38
+file.0=D\:\\AndroidApps\\popular movies 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aac6d5bf7a21c35e468a9d9ca3fcfb6ebdafac2b\\classes.dex
