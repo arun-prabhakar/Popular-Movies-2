@@ -5,5 +5,5 @@ package in.arunprabhakar.popularmovies.Config;
  */
 
 public class Config {
-    public static final String API_KEY = "379c9f5b3bb5b595a298c5b3340c59fc";
+    public static final String API_KEY = "API-KEY";
 }
